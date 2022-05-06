@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(38, 36, 36);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+
+}
+
+div {
+    max-width: 600px;
+    min-width: 320px;
+    margin-top: 400px;
+    
+
+    
+    
+    
+    
+}
+
+div , h1 {
+    color: rgb(30, 255, 0);
+    font-size: 3.6rem;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
